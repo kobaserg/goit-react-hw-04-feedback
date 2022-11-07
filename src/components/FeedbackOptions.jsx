@@ -43,5 +43,5 @@ export const FeedbackOptions = ({ option }) => {
 };
 
 FeedbackOptions.propTypes = {
-  option: PropTypes.object,
+  option: PropTypes.func,
 };
